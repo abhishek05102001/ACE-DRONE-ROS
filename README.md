@@ -1,1 +1,2 @@
 # ACE-DRONE-ROS
+ACE is a vision-enabled remote-controlled quadrotor capable of traversing in any environment. Data obtained through LiDAR sensing after millions of computations is used to create a real-time 3D map of any terrain. The simultaneous Localization and Mapping (SLAM) technique used ensures accurate mapping of any closed surroundings. The drone can map any unexplored territory and record the events with the camera mounted on it.
